@@ -1,6 +1,6 @@
 # ngConnect API for integrating 3D Views with Websites and Mobile Applications
 
-Follow these steps for integration on PLP (Product Listing Page)
+Follow these steps for integration on 
 1.  Copy the JavaScript from 'ngConnect.js' page on to your website’s product listing frontpage. Pass the values  (SKU_ID - (Item_id) and 1 – (Flag).
 2. Declare the values within the function - username, password, API_KEY. (These values will be provided by us).
 2. Explicitly call the function when the document has finished loading.
